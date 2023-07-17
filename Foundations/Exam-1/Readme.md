@@ -1,4 +1,4 @@
-Name: Rayan Bouezzeddine
+Name: **Rayan Bouezzeddine**
 
 HTML: Which HTML element is used to specify a title for a document?
 
