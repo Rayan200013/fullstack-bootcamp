@@ -10,11 +10,11 @@ CSS: What does CSS stand for?
 
 A. Creative Style Sheets
 B. Cascading Style Scripts
-C. Cascading Style Sheets
+C. **Cascading Style Sheets**
 D. Computer Style Sheets
 Git: What command initializes a new Git repository?
 
-A. git init
+A. **git init**
 B. git new
 C. git start
 D. git create
@@ -22,23 +22,23 @@ JavaScript: What will the following code return: Boolean(10 > 9)?
 
 A. "10 > 9"
 B. false
-C. true
+C. **true**
 D. undefined
 HTML: Which HTML element is used to create an unordered list?
 
 A. <ol>
-B. <ul>
+B. **<ul>**
 C. <li>
 D. <p>
 CSS: What does the z-index property specify in CSS?
 
-A. The opacity level of an element
+A. **The opacity level of an element**
 B. The width and height of an element
 C. The stack order of an element
 D. The border thickness of an element
 Git: How can you discard changes in the working directory in Git?
 
-A. git checkout --
+A. **git checkout**
 B. git discard
 C. git undo
 D. git clean
@@ -46,17 +46,17 @@ JavaScript: Which of the following is NOT a JavaScript data type?
 
 A. String
 B. Boolean
-C. Function
+C. **Function**
 D. Character
 HTML: Which of the following tags is used to insert a blank line in HTML?
 
-A. <br>
+A. **<br>**
 B. <hr>
 C. <line>
 D. <break>
 CSS: Which CSS property is used to change the text color of an element?
 
-A. color
+A. **color**
 B. text-color
 C. font-color
 D. textColor
@@ -64,18 +64,18 @@ Git: How do you create a new branch in Git?
 
 A. git new branch
 B. git branch new
-C. git branch
+C. **git branch**
 D. git create
 JavaScript: How do you declare a JavaScript variable?
 
 A. variable carName;
-B. var carName;
+B. **var carName;**
 C. v carName;
 D. declare carName;
 HTML: Which doctype is correct for HTML5?
 
 A. <!DOCTYPE HTML PUBLIC>
-B. <!DOCTYPE HTML>
+B. **<!DOCTYPE HTML>**
 C. <!DOCTYPE>
 D. <!HTML>
 CSS: How do you select an element with id "demo" in CSS?
@@ -83,12 +83,12 @@ CSS: How do you select an element with id "demo" in CSS?
 A. demo
 B. .demo
 C. \*demo
-D. #demo
+D. **#demo**
 Git: What is the purpose of the git push command?
 
 A. To fetch from and integrate with another repository
 B. To record changes to the repository
-C. To update remote refs along with associated objects
+C. **To update remote refs along with associated objects**
 D. To list all new or modified files to be committed
 JavaScript: What is the correct JavaScript syntax to change the content of the HTML element below? <p id="demo">This is a demonstration.</p>
 
